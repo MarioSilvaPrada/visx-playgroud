@@ -10,7 +10,7 @@ const data = letterFrequency;
 // Define the graph dimensions and margins
 const width = 1000;
 const height = 1000;
-const margin = { top: 20, bottom: 20, left: 20, right: 20 };
+const margin = { top: 50, bottom: 50, left: 50, right: 50 };
 
 // Then we'll create some bounds
 const xMax = width - margin.left - margin.right;

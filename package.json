@@ -8,6 +8,7 @@
     "@visx/mock-data": "^1.0.0",
     "@visx/scale": "^1.0.0",
     "@visx/shape": "^1.0.0",
+    "d3-scale-chromatic": "^2.0.0",
     "next": "^9.5.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
